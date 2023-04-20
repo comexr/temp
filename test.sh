@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello world"
+sudo echo "Hello world"
